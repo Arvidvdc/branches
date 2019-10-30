@@ -56,7 +56,3 @@ td.tabbed {
     cursor: pointer;
     box-shadow: 3px 3px greenyellow;
   }
-  
-  .btn:hover {
-    background-color: greenyellow;
-  }
